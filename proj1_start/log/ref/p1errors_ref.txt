@@ -1,0 +1,6 @@
+Error - extra argument at line 3: X2
+Error - invalid label at line 8: 3hello
+Error - extra argument at line 10: LSL
+Error: name 'label' already exists in table.
+Error - extra argument at line 13: 5
+One or more errors encountered during assembly operation.

@@ -1,0 +1,10 @@
+.text
+ab010000
+aa000062
+d6000008
+d3601001
+b20003e0
+
+.symbol
+
+.relocation

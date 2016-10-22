@@ -1,0 +1,13 @@
+.text
+ab010000
+aa010062
+d6000001
+eb030041
+94000000
+
+.symbol
+4	label
+24	l1
+
+.relocation
+16	label

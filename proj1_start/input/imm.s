@@ -1,0 +1,5 @@
+ADDI X0,X1,#1000
+
+ORRI X3, X0, #300
+
+LDURW X1 ,[X3, #8]

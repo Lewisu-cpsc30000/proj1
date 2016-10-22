@@ -1,0 +1,6 @@
+CBZ X1 label2
+CBNZ X0 label1
+B label2
+CBNZ X0 label3
+BL label1
+CBZ X0 label2
